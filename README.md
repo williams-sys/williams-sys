@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Williams Shann Htet
-- 👀 I’m interested in web develpoment
+- 👋 Hi, I’m Williams Shann Htet.
+- 👀 I’m interested in web develpoment and web design.
 - 📫 How to reach me on email - shanhtet07@gmail.com
 
 <!---
